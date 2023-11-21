@@ -6,6 +6,7 @@
         public string Password { get; set; }
         public string UserMessage { get; set; }
         public string UserToken { get; set; }
+        public string RefreshToken { get; set; }
 
     }
 }
